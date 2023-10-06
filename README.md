@@ -1,3 +1,6 @@
+# 노션 주소
+- https://www.notion.so/Codevelop-29b8d067421e41f3ba251583b96e07a1
+
 # 페이지별 담당자
 
 - 회원가입 -> 유빈
